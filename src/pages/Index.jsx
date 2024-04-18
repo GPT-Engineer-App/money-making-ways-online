@@ -5,32 +5,32 @@ const Index = () => {
   return (
     <Container maxW="container.md" py={10}>
       <Heading as="h1" mb={4} textAlign="center">
-        דרכים להרוויח כסף מהאינטרנט באמצעות הטלפון
+        Ways to Make Money Online Using Your Phone
       </Heading>
       <Image src="https://images.unsplash.com/photo-1612197527762-8cfb55b618d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxzbWFydHBob25lJTIwbW9uZXklMjBtYWtpbmd8ZW58MHx8fHwxNzEzNDU0MTI1fDA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" mb={6} />
       <Text fontSize="lg" mb={4}>
-        בעידן הדיגיטלי, ישנן מגוון דרכים להרוויח כסף באינטרנט דרך הטלפון שלך. כאן תמצא מספר אפשרויות שיכולות לעזור לך להתחיל:
+        In the digital age, there are various ways to make money online through your phone. Here you will find several options to get started:
       </Text>
       <List spacing={3}>
         <ListItem>
           <ListIcon as={FaCheckCircle} color="green.500" />
-          משחקים ואפליקציות שמשלמות - התקן אפליקציות שמציעות תשלום עבור משימות פשוטות או שחק במשחקים שמציעים פרסים.
+          Paid games and apps - Install apps that offer payment for simple tasks or play games that offer prizes.
         </ListItem>
         <ListItem>
           <ListIcon as={FaCheckCircle} color="green.500" />
-          סקרים מקוונים - השתתף בסקרים מקוונים וקבל תשלום עבור זמנך.
+          Online surveys - Participate in online surveys and get paid for your time.
         </ListItem>
         <ListItem>
           <ListIcon as={FaCheckCircle} color="green.500" />
-          שיווק בשותפות - הצטרף לתוכניות שיווק בשותפות והרוויח עמלות על מכירות שנעשו דרך הקישורים שלך.
+          Affiliate marketing - Join affiliate marketing programs and earn commissions on sales made through your links.
         </ListItem>
         <ListItem>
           <ListIcon as={FaCheckCircle} color="green.500" />
-          מכירת תמונות - אם אתה צלם חובב, מכור את תמונותיך באתרים כמו Shutterstock או Getty Images.
+          Selling photos - If you are an amateur photographer, sell your photos on sites like Shutterstock or Getty Images.
         </ListItem>
         <ListItem>
           <ListIcon as={FaCheckCircle} color="green.500" />
-          ייעוץ והדרכה - הצע שירותי ייעוץ או הדרכה בתחום שלך דרך פלטפורמות כמו Zoom או Skype.
+          Consulting and coaching - Offer consulting or coaching services in your field through platforms like Zoom or Skype.
         </ListItem>
       </List>
     </Container>
